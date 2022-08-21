@@ -3,3 +3,7 @@ Contains all answers for Rajalakshmi college's Digial cafe CS19341-Design and An
 Always try to code on your own and use this for reference purpose only!!!<br>
 **HAPPY CODING😊**
 
+### Finding Time Complexity of Algorithms
+
+
+
