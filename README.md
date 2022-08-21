@@ -11,3 +11,6 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 → [Problem 3: Finding Complexity using Counter Method](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Finding-Time-Complexity-of-Algorithms/Problem-3:Finding_Complexity_using_Counter_method.c)
 
+→ [Problem 4: Finding Complexity using Counter Method](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Finding-Time-Complexity-of-Algorithms/Problem-4:Finding_Complexity_using_Counter_method.c)
+
+
