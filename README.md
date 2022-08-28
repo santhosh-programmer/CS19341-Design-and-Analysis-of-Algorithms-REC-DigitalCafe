@@ -23,4 +23,4 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 → [Bubble Sort](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Brute-Force-Strategy-Simple-Programs/Bubble_Sort.c)
 
-→ [Problem 6: Finding Complexity using Counter Method](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Finding-Time-Complexity-of-Algorithms/Problem-6:Finding_Complexity_using_Counter_method.c)
+→ [Add to Array](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Brute-Force-Strategy-Simple-Programs/Add_to_Array.c)
