@@ -27,4 +27,8 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 → [String Matching](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Brute-Force-Strategy-Simple-Programs/String_Matching.c)
 
+→ [String Matching](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Brute-Force-Strategy-Simple-Programs/String_Matching.c)
+
+→ [String Matching](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Brute-Force-Strategy-Simple-Programs/String_Matching.c)
+
 
