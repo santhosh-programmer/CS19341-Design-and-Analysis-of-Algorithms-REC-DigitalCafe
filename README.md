@@ -29,6 +29,6 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 → [Print Intersection of 2 sorted arrays](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Brute-Force-Strategy-Simple-Programs/Print_Intersection_of_2_sorted_arrays.c)
 
-→ [String Matching](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Brute-Force-Strategy-Simple-Programs/String_Matching.c)
+→ [Finding Duplicates](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Brute-Force-Strategy-Simple-Programs/Finding_Duplicates.c)
 
 
