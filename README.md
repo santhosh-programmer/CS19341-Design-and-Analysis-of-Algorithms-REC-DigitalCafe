@@ -31,4 +31,6 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 → [Finding Duplicates](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Brute-Force-Strategy-Simple-Programs/Finding_Duplicates.c)
 
+## Basic Programming
 
+→ [Basic-01](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/tree/main/Basic-Programming/Basic-01)
