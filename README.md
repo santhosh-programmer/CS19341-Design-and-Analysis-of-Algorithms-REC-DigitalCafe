@@ -45,11 +45,11 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 → [Majority Element](Divide-and-Conquer/Majority_Element.c)
 
-→ [](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Brute-Force-Strategy-Simple-Programs/Bubble_Sort.c)
+→ [Finding Floor Value](Divide-and-Conquer/Finding_Floor_Value.c)
 
-→ [](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Brute-Force-Strategy-Simple-Programs/Bubble_Sort.c)
+→ [Find An Element in Sorted Matrix](Divide-and-Conquer/Find_An_Element_in_Sorted_Matrix.c)
 
-→ [](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Brute-Force-Strategy-Simple-Programs/Bubble_Sort.c)
+→ [Two Elements sum to x](Divide-and-Conquer/Two_Elements_sum_to_x.c)
 
 ## Basic Programming
 
