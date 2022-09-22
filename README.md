@@ -39,6 +39,18 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 → [Assignment Problem]
 
+## Divide and Conquer
+
+→ [Number of Zeros in a Given Array](Divide-and-Conquer/Number_of_Zeros_in_a_Given_Array.c)
+
+→ [Majority Element](Divide-and-Conquer/Majority_Element.c)
+
+→ [](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Brute-Force-Strategy-Simple-Programs/Bubble_Sort.c)
+
+→ [](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Brute-Force-Strategy-Simple-Programs/Bubble_Sort.c)
+
+→ [](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Brute-Force-Strategy-Simple-Programs/Bubble_Sort.c)
+
 ## Basic Programming
 
 - [**Basic-01**](Basic-Programming/Basic-01)
