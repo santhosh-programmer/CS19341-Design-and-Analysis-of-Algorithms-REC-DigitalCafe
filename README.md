@@ -35,6 +35,10 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 → [Subset Sum Equal](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Brute-Force-Strategy-Simple-Programs/Subset_Sum_Equal.c)
 
+→ [Find Words](Brute-Force-Strategy-Simple-Programs/Find_Words.c)
+
+→ [Assignment Problem]
+
 ## Basic Programming
 
 - [**Basic-01**](Basic-Programming/Basic-01)
