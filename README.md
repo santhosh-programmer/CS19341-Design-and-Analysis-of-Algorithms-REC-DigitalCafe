@@ -63,6 +63,19 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 - [**Basic-01**](Basic-Programming/Basic-01)
 
+   - [Question 1](Basic-Programming/BASIC/1.c)
+   - [Question 2](Basic-Programming/BASIC/2.c)
+   - [Question 3](Basic-Programming/BASIC/3.c)
+   - [Question 4](Basic-Programming/BASIC/4.c)
+   - [Question 5](Basic-Programming/BASIC/5.c)
+   - [Question 6](Basic-Programming/BASIC/6.c)
+   - [Question 7](Basic-Programming/BASIC/7.c)
+   - [Question 8](Basic-Programming/BASIC/8.c)
+   - [Question 9](Basic-Programming/BASIC/9.c)
+   - [Question 110](Basic-Programming/BASIC/10.c)
+
+- [**Basic-01**](Basic-Programming/Basic-01)
+
    - [Question 1](Basic-Programming/Basic-01/1.c)
    - [Question 2](Basic-Programming/Basic-01/2.c)
    - [Question 3](Basic-Programming/Basic-01/3.c)
