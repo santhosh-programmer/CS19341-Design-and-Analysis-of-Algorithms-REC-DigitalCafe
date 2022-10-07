@@ -41,11 +41,11 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 ## Greedy Algorithms
 
-→ [Greedy-PP1](Greedy-Algotihm/Greedy-PP1.c)
+→ [Greedy-PP1](Greedy-Algorithms/Greedy-PP1.c)
 
-→ [Greedy-PP2](Greedy-Algotihm/Greedy-PP2.c)
+→ [Greedy-PP2](Greedy-Algorithms/Greedy-PP2.c)
 
-→ [Greedy-PP3](Greedy-Algotihm/Greedy-PP2.c)
+→ [Greedy-PP3](Greedy-Algorithms/Greedy-PP3.c)
 
 ## Divide and Conquer
 
