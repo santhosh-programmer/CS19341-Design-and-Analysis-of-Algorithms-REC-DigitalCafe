@@ -39,6 +39,14 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 → [Assignment Problem]
 
+## Greedy Algorithms
+
+→ [Greedy-PP1](Greedy-Algotihm/Greedy-PP1.c)
+
+→ [Greedy-PP2](Greedy-Algotihm/Greedy-PP2.c)
+
+→ [Greedy-PP3](Greedy-Algotihm/Greedy-PP2.c)
+
 ## Divide and Conquer
 
 → [Number of Zeros in a Given Array](Divide-and-Conquer/Number_of_Zeros_in_a_Given_Array.c)
