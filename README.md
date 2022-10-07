@@ -61,7 +61,7 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 ## Basic Programming
 
-- [**Basic-01**](Basic-Programming/Basic-01)
+- [**BASIC**](Basic-Programming/BASIC)
 
    - [Question 1](Basic-Programming/BASIC/1.c)
    - [Question 2](Basic-Programming/BASIC/2.c)
@@ -72,7 +72,7 @@ Always try to code on your own and use this for reference purpose only!!!<br>
    - [Question 7](Basic-Programming/BASIC/7.c)
    - [Question 8](Basic-Programming/BASIC/8.c)
    - [Question 9](Basic-Programming/BASIC/9.c)
-   - [Question 110](Basic-Programming/BASIC/10.c)
+   - [Question 10](Basic-Programming/BASIC/10.c)
 
 - [**Basic-01**](Basic-Programming/Basic-01)
 
@@ -89,4 +89,12 @@ Always try to code on your own and use this for reference purpose only!!!<br>
    - [Question 3](Basic-Programming/Basic-02/3.c)
    - [Question 4](Basic-Programming/Basic-02/4.c)
    - [Question 5](Basic-Programming/Basic-02/5.c)
+
+- [**Basic-03**](Basic-Programming/Basic-03)
+
+   - [Question 1](Basic-Programming/Basic-03/1.c)
+   - [Question 2](Basic-Programming/Basic-03/2.c)
+   - [Question 3](Basic-Programming/Basic-03/3.c)
+   - [Question 4](Basic-Programming/Basic-03/4.c)
+   - [Question 5](Basic-Programming/Basic-03/5.c)
  <hr>
