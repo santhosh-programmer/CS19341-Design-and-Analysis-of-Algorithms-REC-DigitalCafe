@@ -5,7 +5,7 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 <img src="https://media0.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif?cid=790b7611b53f6f1d38d0cc604cd45f03b7676322a5c6f38a&rid=giphy.gif&ct=g" align="right" width="35%" height="35%"></img>
 
-## Finding Time Complexity of Algorithms
+### Finding Time Complexity of Algorithms
 
 → [Problem 1: Comparing Complexity](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Finding-Time-Complexity-of-Algorithms/Problem-1:Comparing_Complexity.c)
 
@@ -19,7 +19,7 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 → [Problem 6: Finding Complexity using Counter Method](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Finding-Time-Complexity-of-Algorithms/Problem-6:Finding_Complexity_using_Counter_method.c)
 
-## Brute Force Strategy-Simple Programs
+### Brute Force Strategy-Simple Programs
 
 → [Bubble Sort](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Brute-Force-Strategy-Simple-Programs/Bubble_Sort.c)
 
@@ -39,7 +39,7 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 → [Assignment Problem]
 
-## Greedy Algorithms
+### Greedy Algorithms
 
 → [Greedy-PP1](Greedy-Algorithms/Greedy-PP1.c)
 
@@ -47,7 +47,7 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 → [Greedy-PP3](Greedy-Algorithms/Greedy-PP3.c)
 
-## Divide and Conquer
+### Divide and Conquer
 
 → [Number of Zeros in a Given Array](Divide-and-Conquer/Number_of_Zeros_in_a_Given_Array.c)
 
@@ -59,7 +59,7 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 → [Two Elements sum to x](Divide-and-Conquer/Two_Elements_sum_to_x.c)
 
-## Basic Programming
+### Basic Programming
 
 - [**BASIC**](Basic-Programming/BASIC)
 
