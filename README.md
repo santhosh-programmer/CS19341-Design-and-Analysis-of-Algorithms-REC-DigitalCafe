@@ -5,6 +5,45 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 <img src="https://media0.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif?cid=790b7611b53f6f1d38d0cc604cd45f03b7676322a5c6f38a&rid=giphy.gif&ct=g" align="right" width="35%" height="35%"></img>
 
+### Basic Programming
+
+- [**BASIC**](Basic-Programming/BASIC)
+
+   - [Question 1](Basic-Programming/BASIC/1.c)
+   - [Question 2](Basic-Programming/BASIC/2.c)
+   - [Question 3](Basic-Programming/BASIC/3.c)
+   - [Question 4](Basic-Programming/BASIC/4.c)
+   - [Question 5](Basic-Programming/BASIC/5.c)
+   - [Question 6](Basic-Programming/BASIC/6.c)
+   - [Question 7](Basic-Programming/BASIC/7.c)
+   - [Question 8](Basic-Programming/BASIC/8.c)
+   - [Question 9](Basic-Programming/BASIC/9.c)
+   - [Question 10](Basic-Programming/BASIC/10.c)
+
+- [**Basic-01**](Basic-Programming/Basic-01)
+
+   - [Question 1](Basic-Programming/Basic-01/1.c)
+   - [Question 2](Basic-Programming/Basic-01/2.c)
+   - [Question 3](Basic-Programming/Basic-01/3.c)
+   - [Question 4](Basic-Programming/Basic-01/4.c)
+   - [Question 5](Basic-Programming/Basic-01/5.c)
+ 
+ - [**Basic-02**](Basic-Programming/Basic-02)
+
+   - [Question 1](Basic-Programming/Basic-02/1.c)
+   - [Question 2](Basic-Programming/Basic-02/2.c)
+   - [Question 3](Basic-Programming/Basic-02/3.c)
+   - [Question 4](Basic-Programming/Basic-02/4.c)
+   - [Question 5](Basic-Programming/Basic-02/5.c)
+
+- [**Basic-03**](Basic-Programming/Basic-03)
+
+   - [Question 1](Basic-Programming/Basic-03/1.c)
+   - [Question 2](Basic-Programming/Basic-03/2.c)
+   - [Question 3](Basic-Programming/Basic-03/3.c)
+   - [Question 4](Basic-Programming/Basic-03/4.c)
+   - [Question 5](Basic-Programming/Basic-03/5.c)
+ 
 ### Finding Time Complexity of Algorithms
 
 → [Problem 1: Comparing Complexity](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Finding-Time-Complexity-of-Algorithms/Problem-1:Comparing_Complexity.c)
@@ -65,42 +104,4 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 → [Two Elements sum to x](Divide-and-Conquer/Two_Elements_sum_to_x.c)
 
-### Basic Programming
-
-- [**BASIC**](Basic-Programming/BASIC)
-
-   - [Question 1](Basic-Programming/BASIC/1.c)
-   - [Question 2](Basic-Programming/BASIC/2.c)
-   - [Question 3](Basic-Programming/BASIC/3.c)
-   - [Question 4](Basic-Programming/BASIC/4.c)
-   - [Question 5](Basic-Programming/BASIC/5.c)
-   - [Question 6](Basic-Programming/BASIC/6.c)
-   - [Question 7](Basic-Programming/BASIC/7.c)
-   - [Question 8](Basic-Programming/BASIC/8.c)
-   - [Question 9](Basic-Programming/BASIC/9.c)
-   - [Question 10](Basic-Programming/BASIC/10.c)
-
-- [**Basic-01**](Basic-Programming/Basic-01)
-
-   - [Question 1](Basic-Programming/Basic-01/1.c)
-   - [Question 2](Basic-Programming/Basic-01/2.c)
-   - [Question 3](Basic-Programming/Basic-01/3.c)
-   - [Question 4](Basic-Programming/Basic-01/4.c)
-   - [Question 5](Basic-Programming/Basic-01/5.c)
- 
- - [**Basic-02**](Basic-Programming/Basic-02)
-
-   - [Question 1](Basic-Programming/Basic-02/1.c)
-   - [Question 2](Basic-Programming/Basic-02/2.c)
-   - [Question 3](Basic-Programming/Basic-02/3.c)
-   - [Question 4](Basic-Programming/Basic-02/4.c)
-   - [Question 5](Basic-Programming/Basic-02/5.c)
-
-- [**Basic-03**](Basic-Programming/Basic-03)
-
-   - [Question 1](Basic-Programming/Basic-03/1.c)
-   - [Question 2](Basic-Programming/Basic-03/2.c)
-   - [Question 3](Basic-Programming/Basic-03/3.c)
-   - [Question 4](Basic-Programming/Basic-03/4.c)
-   - [Question 5](Basic-Programming/Basic-03/5.c)
  <hr>
