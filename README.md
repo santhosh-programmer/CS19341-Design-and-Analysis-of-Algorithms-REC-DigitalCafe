@@ -47,6 +47,12 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 → [Greedy-PP3](Greedy-Algorithms/Greedy-PP3.c)
 
+→ [Greedy-PP4](Greedy-Algorithms/Greedy-PP4.c)
+
+→ [Greedy-PP5](Greedy-Algorithms/Greedy-PP5.c)
+
+→ [Greedy-PP6](Greedy-Algorithms/Greedy-PP6.c)
+
 ### Divide and Conquer
 
 → [Number of Zeros in a Given Array](Divide-and-Conquer/Number_of_Zeros_in_a_Given_Array.c)
