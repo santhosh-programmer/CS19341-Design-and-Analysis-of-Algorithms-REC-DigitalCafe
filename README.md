@@ -104,4 +104,8 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 → [Two Elements sum to x](Divide-and-Conquer/Two_Elements_sum_to_x.c)
 
+### Divide and Conquer
+
+→ [Playing with Numbers](Dynamic-Programming/Playing_with_Numbers.c)
+
  <hr>
