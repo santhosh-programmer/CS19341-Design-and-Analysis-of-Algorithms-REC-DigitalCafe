@@ -44,7 +44,8 @@ Always try to code on your own and use this for reference purpose only!!!<br>
    - [Question 4](Basic-Programming/Basic-03/4.c)
    - [Question 5](Basic-Programming/Basic-03/5.c)
   
- 
+<hr>
+
 ### Finding Time Complexity of Algorithms
 
 → [Problem 1: Comparing Complexity](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Finding-Time-Complexity-of-Algorithms/Problem-1:Comparing_Complexity.c)
@@ -58,6 +59,8 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 → [Problem 5: Finding Complexity using Counter Method](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Finding-Time-Complexity-of-Algorithms/Problem-5:Finding_Complexity_using_Counter_Method.c)
 
 → [Problem 6: Finding Complexity using Counter Method](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Finding-Time-Complexity-of-Algorithms/Problem-6:Finding_Complexity_using_Counter_method.c)
+
+<hr>
 
 ### Brute Force Strategy-Simple Programs
 
@@ -79,6 +82,8 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 → [Assignment Problem]
 
+<hr>
+
 ### Greedy Algorithms
 
 → [Greedy-PP1](Greedy-Algorithms/Greedy-PP1.c)
@@ -93,6 +98,8 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 → [Greedy-PP6](Greedy-Algorithms/Greedy-PP6.c)
 
+<hr>
+
 ### Divide and Conquer
 
 → [Number of Zeros in a Given Array](Divide-and-Conquer/Number_of_Zeros_in_a_Given_Array.c)
@@ -105,7 +112,9 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 → [Two Elements sum to x](Divide-and-Conquer/Two_Elements_sum_to_x.c)
 
-### Divide and Conquer
+<hr>
+
+### Dynamic Programming
 
 → [Playing with Numbers](Dynamic-Programming/Playing_with_Numbers.c)
 
