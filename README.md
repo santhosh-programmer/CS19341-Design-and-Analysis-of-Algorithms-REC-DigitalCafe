@@ -5,7 +5,7 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 <img src="https://media0.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif?cid=790b7611b53f6f1d38d0cc604cd45f03b7676322a5c6f38a&rid=giphy.gif&ct=g" align="right" width="35%" height="35%"></img>
 
-### Basic Programming
+### 💘 **Basic Programming**
 
 - [**BASIC**](Basic-Programming/BASIC)
 
@@ -46,7 +46,7 @@ Always try to code on your own and use this for reference purpose only!!!<br>
   
 <hr>
 
-### Finding Time Complexity of Algorithms
+### 💘 **Finding Time Complexity of Algorithms**
 
 → [Problem 1: Comparing Complexity](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Finding-Time-Complexity-of-Algorithms/Problem-1:Comparing_Complexity.c)
 
@@ -62,7 +62,7 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 <hr>
 
-### Brute Force Strategy-Simple Programs
+### 💘 **Brute Force Strategy-Simple Programs**
 
 → [Bubble Sort](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Brute-Force-Strategy-Simple-Programs/Bubble_Sort.c)
 
@@ -84,7 +84,7 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 <hr>
 
-### Greedy Algorithms
+### 💘 **Greedy Algorithms**
 
 → [Greedy-PP1](Greedy-Algorithms/Greedy-PP1.c)
 
@@ -100,7 +100,7 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 <hr>
 
-### Divide and Conquer
+### 💘 **Divide and Conquer**
 
 → [Number of Zeros in a Given Array](Divide-and-Conquer/Number_of_Zeros_in_a_Given_Array.c)
 
@@ -114,8 +114,14 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 <hr>
 
-### Dynamic Programming
+### 💘 **Dynamic Programming**
 
 → [Playing with Numbers](Dynamic-Programming/Playing_with_Numbers.c)
+
+→ [Longest Common Subsequence]
+
+→ [Longest non-decreasing Subsequence]
+
+→ [Playing with chessboard]
 
  <hr>
