@@ -1,7 +1,7 @@
 #include<stdio.h>
-unsigned long long int fact(int n,int m,int *max,int *min)
+long long int fact(int n,int m,int *max,int *min)
 {
-    unsigned long long int temp=1;
+    long long int temp=1;
     if(n>m)
     {
         *max=n;
@@ -32,7 +32,7 @@ unsigned long long int fact(int n,int m,int *max,int *min)
 int main()
 {
     int n,max,min;
-    unsigned long long int temp,ans=0;
+    long long int temp,ans=0;
     scanf("%d",&n);
     for(int i=1;i<=n/3;i++)
     {
