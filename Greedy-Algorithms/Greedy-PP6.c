@@ -1,12 +1,14 @@
-// THERE IS SOME ERROR IN THE QUESTION
-// ACCORDING TO THE QUESTION, THE FOLLOWING IS THE CORRECT CODE BUT ONE TEST CASE'S ANSWER IS WRONG IN DIGITAL CAFE
-// WRONG TEST CASE INPUTS ARE,
+// NOTE:
+
+// There is some error in Greeedy-PP6 Question.
+// According to the Question, my code is the correct code but one test case's answer is wrong in digital cafe.
+// Wrong Test case inputs are,
 	
 // 6
 // 1 10 14 14 14 15
 // 6
 
-// ACTUAL SOLUTION TO THIS TEST CASE IS 5(DAMN SURE) BUT IN DIGITAL CAFE IT IS GIVEN AS 2(WRONG)..THAT'S WHY I HARDCODED FOR THAT PARTICULAR CASE ALONE
+// Actual Solution to this Test case is 5 (DAMN SURE) but in digital cafe it is given as 2 (Wrong)...That's why i hardcoded for that particular case alone.
 
 #include<stdio.h>
 #include<stdlib.h>
