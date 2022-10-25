@@ -29,17 +29,42 @@
 
 
 #include<stdio.h>
+int sum=0;
+int find(int a[],int ans[],int i,int n)
+{
+    if(i==n)
+    {
+        int t=0;
+        for(int i=0;i<n;i++)
+        t+=ans[i];
+        return (t*2)?1:0;
+    }
+    else
+    {
+        ans[i]=a[i];
+        if(find(a,ans,i+1,n))
+        return 1;
+        else
+        {
+            a[i]=0;
+            if(find(a,ans,i+1,n))
+            return 1;
+        }
+        return 0;
+    }
+}
 int main()
 {
-    int n,sum,a;
+    int n;
     scanf("%d",&n);
+    int a[n],ans[n];
     for(int i=0;i<n;i++)
     {
-        scanf("%d",&a);
-        sum+=a;
+        scanf("%d",&a[i]);
+        sum+=a[i];
     }
-    if(sum%2==0)
-    printf("true");
-    else
+    if(sum%2!=0)
     printf("false");
+    else
+    (find(a,ans,0,n))?printf("true"):printf("false");
 }
