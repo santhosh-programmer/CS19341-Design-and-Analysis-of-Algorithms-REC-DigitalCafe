@@ -31,7 +31,10 @@ int find(int a[],int s,int n,int m,int o)
     t1=find(a,s+1,n,m,1);
     a[s]-=m; 
     a[s]-=m;
+    if(!(a[s]<0))
     t2=find(a,s+1,n,m,0);
+    else
+    t2=t1;
     a[s]+=m;
     return (t1<t2)?t1:t2;
 }
@@ -50,7 +53,10 @@ int main()
         a[0]+=m;
         t1=find(a,1,n,m,1);
         a[0]-=2*m;
+        if(!(a[0]<0))
         t2=find(a,1,n,m,0);
+        else
+        t2=t1;
         (t1<t2)?printf("%d",t1):printf("%d",t2);
     }
 }
