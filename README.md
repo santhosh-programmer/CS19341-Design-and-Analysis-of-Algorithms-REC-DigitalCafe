@@ -80,7 +80,7 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 → [Find Words](Brute-Force-Strategy-Simple-Programs/Find_Words.c)
 
-→ [Assignment Problem]
+→ [Assignment Problem](Brute-Force-Strategy-Simple-Programs/Assignment_Problem.c)
 
 <hr>
 
