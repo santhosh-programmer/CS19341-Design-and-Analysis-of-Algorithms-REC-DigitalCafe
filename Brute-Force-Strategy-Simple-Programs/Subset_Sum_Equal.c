@@ -37,7 +37,7 @@ int find(int a[],int ans[],int i,int n)
         int t=0;
         for(int i=0;i<n;i++)
         t+=ans[i];
-        return (t*2)?1:0;
+        return ((t*2)==sum)?1:0;
     }
     else
     {
@@ -46,7 +46,7 @@ int find(int a[],int ans[],int i,int n)
         return 1;
         else
         {
-            a[i]=0;
+            ans[i]=0;
             if(find(a,ans,i+1,n))
             return 1;
         }
