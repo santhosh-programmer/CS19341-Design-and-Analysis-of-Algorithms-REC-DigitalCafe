@@ -30,23 +30,20 @@
 
 #include<stdio.h>
 int sum=0;
-int find(int a[],int ans[],int i,int n)
+int find(int a[],int *ans,int i,int n)
 {
     if(i==n)
-    {
-        int t=0;
-        for(int i=0;i<n;i++)
-        t+=ans[i];
-        return ((t*2)==sum)?1:0;
-    }
+    return (((*ans)*2)==sum)?1:0;
     else
     {
-        ans[i]=a[i];
+        (*ans)+=a[i];
+        if((*ans)*2==sum)
+        return 1;
         if(find(a,ans,i+1,n))
         return 1;
         else
         {
-            ans[i]=0;
+            (*ans)-=a[i];
             if(find(a,ans,i+1,n))
             return 1;
         }
@@ -57,7 +54,7 @@ int main()
 {
     int n;
     scanf("%d",&n);
-    int a[n],ans[n];
+    int a[n],ans=0;
     for(int i=0;i<n;i++)
     {
         scanf("%d",&a[i]);
@@ -66,5 +63,5 @@ int main()
     if(sum%2!=0)
     printf("false");
     else
-    (find(a,ans,0,n))?printf("true"):printf("false");
+    (find(a,&ans,0,n))?printf("true"):printf("false");
 }
