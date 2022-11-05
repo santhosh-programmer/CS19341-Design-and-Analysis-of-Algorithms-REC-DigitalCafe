@@ -124,4 +124,12 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 → [Playing with chessboard]
 
+### 💘 **Backtracking**
+
+→ [PP-1]
+
+→ [PP-2]
+
+→ [PP-3](Backtracking/PP-3.c)
+
  <hr>
