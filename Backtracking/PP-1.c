@@ -75,7 +75,7 @@ int main()
 {
     int n;
     scanf("%d",&n);
-    int p=0,v=0,a[n][n],map[n],ans[n+1];
+    int a[n][n],map[n],ans[n+1];
     for(int i=0;i<n;i++)
     map[i]=0;
     for(int i=0;i<n;i++)
@@ -84,8 +84,7 @@ int main()
         scanf("%d",&a[i][j]);
     }
     map[0]=1;
-    v++;
     ans[0]=0;
-    if(!find(n,a,map,ans,p,v))
+    if(!find(n,a,map,ans,0,1))
     printf("The hamiltonian cycle does not exist");
 }
