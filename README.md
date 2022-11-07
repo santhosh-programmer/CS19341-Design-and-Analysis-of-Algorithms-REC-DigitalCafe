@@ -126,10 +126,10 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 ### 💘 **Backtracking**
 
-→ [PP-1](Backtracking/PP-1.c)
+→ [PP-1 Hamiltonian Cycle](Backtracking/PP-1.c)
 
 → [PP-2]
 
-→ [PP-3](Backtracking/PP-3.c)
+→ [PP-3 Subset Sum](Backtracking/PP-3.c)
 
  <hr>
