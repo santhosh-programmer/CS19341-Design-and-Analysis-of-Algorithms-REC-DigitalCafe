@@ -122,7 +122,7 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 → [Longest non-decreasing Subsequence]
 
-→ [Playing with chessboard]
+→ [Playing with chessboard](Dynamic-Programming/Playing_with_chessboard.c)
 
 ### 💘 **Backtracking**
 
