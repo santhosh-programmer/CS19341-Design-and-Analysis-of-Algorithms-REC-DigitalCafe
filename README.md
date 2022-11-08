@@ -124,6 +124,8 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 → [Playing with chessboard](Dynamic-Programming/Playing_with_chessboard.c)
 
+<hr>
+
 ### 💘 **Backtracking**
 
 → [PP-1 Hamiltonian Cycle](Backtracking/PP-1.c)
