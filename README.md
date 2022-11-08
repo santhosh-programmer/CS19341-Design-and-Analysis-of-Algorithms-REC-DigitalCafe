@@ -130,7 +130,7 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 → [PP-1 Hamiltonian Cycle](Backtracking/PP-1.c)
 
-→ [PP-2]
+→ [PP-2 Graph Coloring](Backtracking/PP-2.c)
 
 → [PP-3 Subset Sum](Backtracking/PP-3.c)
 
