@@ -118,7 +118,7 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 → [Playing with Numbers](Dynamic-Programming/Playing_with_Numbers.c)
 
-→ [Longest Common Subsequence]
+→ [Longest Common Subsequence](Dynamic-Programming/Longest_Common_Subsequence.c)
 
 → [Longest non-decreasing Subsequence](Dynamic-Programming/Longest_non-decreasing_subsequence.c)
 
