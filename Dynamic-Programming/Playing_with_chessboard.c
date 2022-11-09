@@ -38,10 +38,7 @@ int find(int a[][n],int dp[][n],int i,int j)
         return dp[i][j]=a[i][j]+find(a,dp,i-1,j);
     int t1=a[i][j]+find(a,dp,i-1,j);
     int t2=a[i][j]+find(a,dp,i,j-1);
-    if(t1>t2)
-        dp[i][j]=t1;
-    else
-        dp[i][j]=t2;
+    dp[i][j]=(t1>t2)?t1:t2;
     return dp[i][j];
 }
 int main()
