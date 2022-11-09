@@ -26,34 +26,37 @@
 
 
 
-// BELOW CODE IS NOT ACTUALLY DONE BY DYNAMIC PROGRAMMING, IT IS A GREEDY TECHNIQUE
 #include<stdio.h>
-int ans=0;
-void find(int n,int a[n+1][n+1],int i,int j,int temp)
+int n;
+int find(int a[][n],int dp[][n],int i,int j)
 {
-    if(n==i && i==j)
-    {
-        if(temp>ans)
-        ans=temp;
-    }
+    if(dp[i][j]!=0)
+        return dp[i][j];
+    if(i==0)
+        return dp[i][j]=a[i][j]+find(a,dp,i,j-1);
+    if(j==0)
+        return dp[i][j]=a[i][j]+find(a,dp,i-1,j);
+    int t1=a[i][j]+find(a,dp,i-1,j);
+    int t2=a[i][j]+find(a,dp,i,j-1);
+    if(t1>t2)
+        dp[i][j]=t1;
     else
-    {
-        if(i+1<=n)
-        find(n,a,i+1,j,temp+a[i+1][j]);
-        if(j+1<=n)
-        find(n,a,i,j+1,temp+a[i][j+1]);
-    }
+        dp[i][j]=t2;
+    return dp[i][j];
 }
 int main()
 {
-    int n;
     scanf("%d",&n);
-    int a[n][n];
+    int a[n][n],dp[n][n];
     for(int i=0;i<n;i++)
     {
         for(int j=0;j<n;j++)
-        scanf("%d",&a[i][j]);
+        {
+            scanf("%d",&a[i][j]);
+            dp[i][j]=0;
+        }
     }
-    find(n-1,a,0,0,a[0][0]);
-    printf("%d",ans);
+    dp[0][0]=a[0][0];
+    find(a,dp,n-1,n-1);
+    printf("%d",dp[n-1][n-1]);
 }
