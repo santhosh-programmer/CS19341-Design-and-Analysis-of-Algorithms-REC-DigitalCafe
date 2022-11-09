@@ -120,7 +120,7 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 → [Longest Common Subsequence]
 
-→ [Longest non-decreasing Subsequence]
+→ [Longest non-decreasing Subsequence](Dynamic-Programming/Longest_non-decreasing_subsequence.c)
 
 → [Playing with chessboard](Dynamic-Programming/Playing_with_chessboard.c)
 
