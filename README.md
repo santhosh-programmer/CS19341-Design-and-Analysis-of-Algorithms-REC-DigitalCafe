@@ -138,7 +138,7 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 ### 💘 **String Matching**
 
-→ [Rabin Karp Algorithm Implementation]
+→ [Rabin Karp Algorithm Implementation](String-Matching/Rabin-Karp-Algorithm-Implementation.c)
 
 → [KMP Algorithm Implementation](String-Matching/KMP-Algorithm-Implementation.c)
 
