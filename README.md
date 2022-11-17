@@ -134,4 +134,12 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 → [PP-3 Subset Sum](Backtracking/PP-3.c)
 
+<hr>
+
+### 💘 **String Matching**
+
+→ [Rabin Karp Algorithm Implementation]
+
+→ [KMP Algorithm Implementation](String-Matching/KMP-Algorithm-Implementation.c)
+
  <hr>
