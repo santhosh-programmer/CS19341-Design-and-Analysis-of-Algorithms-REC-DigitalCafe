@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<stdlib.h>
 int find(int a[],int s,int n,int m)
 {
     int t1,t2;
