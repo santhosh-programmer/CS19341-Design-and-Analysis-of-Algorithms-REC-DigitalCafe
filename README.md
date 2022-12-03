@@ -48,7 +48,7 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 ### 💘 **Finding Time Complexity of Algorithms**
 
-→ [Problem 1: Comparing Complexity](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Finding-Time-Complexity-of-Algorithms/Problem-1:Comparing_Complexity.c)
+→ [Problem 1: Comparing Complexity](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Finding-Time-Complexity-of-Algorithms/Problem-1_Comparing_Complexity.c)
 
 → [Problem 2: Finding Complexity using Counter Method](https://github.com/santhosh-programmer/CS19341-Design-and-Analysis-of-Algorithms-REC-DigitalCafe/blob/main/Finding-Time-Complexity-of-Algorithms/Problem-2:Finding_Complexity_using_Counter_Method.c)
 
