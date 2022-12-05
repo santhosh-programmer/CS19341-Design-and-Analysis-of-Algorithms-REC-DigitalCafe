@@ -1,4 +1,6 @@
-// The program must accept two string values S1 and S2 as the input. The program must find the absolute difference between the number of common characters and the number of uncommon characters in the string values and print the value as the output.
+// The program must accept two string values S1 and S2 as the input. 
+// The program must find the absolute difference between the number of common characters and the number 
+// of uncommon characters in the string values and print the value as the output.
 
 // Boundary Condition(s):
 
